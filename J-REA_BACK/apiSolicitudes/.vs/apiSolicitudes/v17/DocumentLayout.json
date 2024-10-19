@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|c:\\users\\lenovo\\desktop\\j-rea\\j-rea_back\\apisolicitudes\\apisolicitudes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|solutionrelative:apisolicitudes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|c:\\users\\lenovo\\desktop\\j-rea\\j-rea_back\\apisolicitudes\\apisolicitudes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|solutionrelative:apisolicitudes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|c:\\users\\lenovo\\desktop\\j-rea\\j-rea_back\\apisolicitudes\\apisolicitudes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|solutionrelative:apisolicitudes\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|c:\\users\\lenovo\\desktop\\j-rea\\j-rea_back\\apisolicitudes\\apisolicitudes\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|solutionrelative:apisolicitudes\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|c:\\users\\lenovo\\desktop\\j-rea\\j-rea_back\\apisolicitudes\\apisolicitudes\\model\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|solutionrelative:apisolicitudes\\model\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|c:\\users\\lenovo\\desktop\\j-rea\\j-rea_back\\apisolicitudes\\apisolicitudes\\controllers\\solicitudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|solutionrelative:apisolicitudes\\controllers\\solicitudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|c:\\users\\lenovo\\desktop\\j-rea\\j-rea_back\\apisolicitudes\\apisolicitudes\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E8C883-81EC-4AD0-9FC4-E2DF17BE7A84}|apiSolicitudes\\apiSolicitudes.csproj|solutionrelative:apisolicitudes\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SolicitudController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Controllers\\SolicitudController.cs",
+              "RelativeDocumentMoniker": "apiSolicitudes\\Controllers\\SolicitudController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Controllers\\SolicitudController.cs",
+              "RelativeToolTip": "apiSolicitudes\\Controllers\\SolicitudController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:03:41.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "apiSolicitudes\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "apiSolicitudes\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:41:58.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "apiSolicitudes\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Model\\Usuario.cs",
+              "RelativeToolTip": "apiSolicitudes\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:41:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Solicitud.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Model\\Solicitud.cs",
+              "RelativeDocumentMoniker": "apiSolicitudes\\Model\\Solicitud.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Model\\Solicitud.cs",
+              "RelativeToolTip": "apiSolicitudes\\Model\\Solicitud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:41:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Program.cs",
+              "RelativeDocumentMoniker": "apiSolicitudes\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Program.cs",
+              "RelativeToolTip": "apiSolicitudes\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:41:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\appsettings.json",
+              "RelativeDocumentMoniker": "apiSolicitudes\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\appsettings.json",
+              "RelativeToolTip": "apiSolicitudes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T22:17:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "apiSolicitudes\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\J-REA\\J-REA_BACK\\apiSolicitudes\\apiSolicitudes\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "apiSolicitudes\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:04:02.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
